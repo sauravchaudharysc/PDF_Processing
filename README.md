@@ -10,7 +10,7 @@
 
 #### Python Module
 
-##### 	Pillow
+##### 	Py2PDF
 
 - To install it go the terminal.
 - Type pip3 install Py2PDF or conda install pillow(if anaconda prompt installed)
